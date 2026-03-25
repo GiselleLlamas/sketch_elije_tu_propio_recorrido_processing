@@ -2,6 +2,8 @@
 
 This project is an interactive "Choose Your Own Adventure" style visual application developed in Processing about a regular anthropomorphic Argentinian bunny in his everyday life. You make choices and you live with them, and sometimes you fall into an unexpected bad ending. This was a good exercise for me to practice system flowcharts and how to design programmatic storylines.
 
+https://github.com/user-attachments/assets/dfc70f81-3563-4e64-8e1c-bcc209541591
+
 ## Academic Context
 This work was created as an academic assignment with the following details:
 * **University:** Universidad Nacional de las Artes (UNA) - Buenos Aires, Argentina
